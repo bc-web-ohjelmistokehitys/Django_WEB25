@@ -7,10 +7,9 @@ You can copy–paste the config below into your **workspace** settings.
 
 ## 1. Where to put this
 
-1. In VS Code open your **course / project folder** (not your whole home directory).
-2. Create the folder `.vscode` in the project if it does not exist.
-3. Inside it, create or edit `settings.json`.
-4. Paste the config below into `.vscode/settings.json`.
+1. In VS Code open your user settyings JSON
+2. Open Command Palette (Ctrl + Shift + P)
+3. Write: json user -> Preferences open user settings`.
 
 ---
 
